@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`C:\Users\user> icacls "C:ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"`
 
-[![Image of icacls](https://github.com/kam1n0/service-escalation-startup/blob/master/tmp_upload/icacls.png)](#)
+[![Image of icacls](https://github.com/kam1n0/service-escalation-startup/blob/master/icacls.png)](#)
 
 * Note that the *BUILTIN\Users* group has (F) *Full Access* permissions to the *Startup* directory.
 
